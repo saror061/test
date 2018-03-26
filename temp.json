@@ -1,3 +1,11 @@
 {
+"categories":[
+{"cname":"Algorithms", "cvalue":"algoritgm.png"},
+{"cname":"DataStructures", "cvalue":"datastructures.png"},
+{"cname":"java", "cvalue":"java.png"},
+{"cname":"MachineLearning", "cvalue":"machinelearning.png"},
+{"cname":"python", "cvalue":"python.png"},
+{"cname":"webdevelopment", "cvalue":"webdevelopment.png"},
+{"cname":"networks", "cvalue":"network.png"},
 
-}
+]}
